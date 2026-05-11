@@ -98,6 +98,7 @@
     <Compile Include="Assets\ithappy\Creative_Characters_FREE\Scripts\Editor\Randomizer\RandomCharacterGenerator.cs" />
     <Compile Include="Assets\ithappy\Creative_Characters_FREE\Scripts\Editor\Character\FullBodySlot.cs" />
     <Compile Include="Assets\ithappy\Creative_Characters_FREE\Scripts\Editor\Randomizer\Steps\Impl\HatSingleStep.cs" />
+    <Compile Include="Assets\Editor\FBXAnimationExtractor.cs" />
     <Compile Include="Assets\ithappy\Creative_Characters_FREE\Scripts\Editor\MaterialManagement\MaterialProvider.cs" />
     <Compile Include="Assets\ithappy\Creative_Characters_FREE\Scripts\Editor\Randomizer\Steps\Impl\HairstyleSingleStep.cs" />
     <Compile Include="Assets\ithappy\Creative_Characters_FREE\Scripts\Editor\Character\SlotVariant.cs" />
